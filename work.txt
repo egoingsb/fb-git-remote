@@ -1,4 +1,4 @@
-RIGHT1
+LEFT RIGHT 1
 -
 -
 M1
